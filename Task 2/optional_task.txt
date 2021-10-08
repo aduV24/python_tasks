@@ -1,0 +1,5 @@
+Request input(an integer) from user
+store the input in a variabe called "n"
+
+calculate the first "n" numbers in the fibonacci sequence
+print the first "n"numbers in the fibonacci sequence.

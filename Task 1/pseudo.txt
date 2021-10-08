@@ -1,0 +1,31 @@
+1
+Request a positive integer from user repeatedly
+
+if value inputted is zero:
+	determine the largest inputted number
+	print(largest number)	
+        
+2
+get 5 ingeters from user
+sum all integers gotten
+Divide sum by number of integers
+print(average)
+	
+3
+Request grocery items from user
+if grocery item has been bought:
+	print(item)
+
+4 
+get x
+get y
+
+S = X + Y
+A = S/2
+P = X * Y
+
+print(S)
+print(A)
+print(P)
+
+
